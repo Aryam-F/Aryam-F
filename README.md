@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Aryam  
 
-<!--
-**Aryam-F/Aryam-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 💻 Software Developer | 📊 Data Analysis Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning: **Software Development & Data Analysis**
+- 💼 Connect with me: [LinkedIn](www.linkedin.com/in/aryamalfaifi) 
+
+---
+
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
+
+---
+
+## 📊 GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryam-F&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryam-F&layout=compact&theme=tokyonight)
+
+---
+
+✨ _Always building, always learning._
