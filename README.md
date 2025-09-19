@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning: **Software Development & Data Analysis**
-- 💼 Connect with me: [LinkedIn](www.linkedin.com/in/aryamalfaifi) 
+- 💼 Connect with me: [LinkedIn]([www.linkedin.com/in/aryamalfaifi](https://www.linkedin.com/in/aryam-al-faifi-a02284287/)) 
 
 ---
 
