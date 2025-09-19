@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryam-F&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryam-F&layout=compact&theme=tokyonight)
+
 
 ---
 
