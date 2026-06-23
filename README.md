@@ -12,9 +12,10 @@
 ---
 
 ## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
+### Programming languages: 
+Java, Python, SQL, Assembly
+### Tools:
+Visual Studio Code, MySQL, PyCharm, Power BI, Microsoft Office, Tableau
 
 ---
 
