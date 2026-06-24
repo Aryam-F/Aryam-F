@@ -17,11 +17,6 @@ Java, Python, SQL, Assembly
 ### Tools:
 Visual Studio Code, MySQL, PyCharm, Power BI, Microsoft Office, Tableau
 
----
-
-## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryam-F&show_icons=true&theme=tokyonight)
-
 
 ---
 
