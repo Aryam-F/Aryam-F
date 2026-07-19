@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Aryam  
+#  Hi, I'm Aryam  
 
-🎓 Computer Science Student | 💻 Software Developer | 📊 Data Analysis Enthusiast  
+ Computer Science Student |  Software Developer |  Data Analysis Enthusiast  
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning: **Software Development & Data Analysis**
-- 💼 Connect with me: [LinkedIn](https://www.linkedin.com/in/aryamalfaifi/)
+##  About Me
+-  Currently learning: **Software Development & Data Analysis**
+-  Connect with me: [LinkedIn](https://www.linkedin.com/in/aryamalfaifi/)
 
 
 ---
@@ -18,6 +18,3 @@ Java, Python, SQL, Assembly
 Visual Studio Code, MySQL, PyCharm, Power BI, Microsoft Office, Tableau
 
 
----
-
-✨ _Always building, always learning._
